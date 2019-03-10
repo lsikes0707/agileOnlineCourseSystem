@@ -15,6 +15,7 @@ Currently, the main features to be programmed are:
 9) Collaborative tools such as forums
 10) Personalized dashboards for both student and non-student
 11) File management
+12) Browser access
 
 Authors
 Lacey Sikes | John Seals
